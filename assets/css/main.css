@@ -340,11 +340,11 @@ a.back-to-top:hover, a.back-to-top:focus {
   position: fixed;
   background-repeat: no-repeat;
   background-size: auto;
-  top: 0; 
-  left: 0; 
+  background-top: 0; 
+  background-left: 0; 
   /* Preserve aspet ratio */
-  min-width: 100%;
-  min-height: 100%;
+  background-min-width: 100%;
+  background-min-height: 100%;
 }
 }
 
