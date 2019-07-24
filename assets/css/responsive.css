@@ -79,3 +79,13 @@
     margin-top: 20px;
   }
 }
+
+@media screen and (max-width:960px) {
+
+.hide-this{
+visibility:hidden;
+display:none;
+
+}
+
+}
