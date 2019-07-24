@@ -979,7 +979,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 
 .contact-form-area {
   background: #DADECF;
-  box-shadow: 0 0 30px #ededed;
+  box-shadow: 0 0 30px #292929;
   padding: 60px 40px;
 }
 
