@@ -289,7 +289,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 #about .img-thumb img {
-  background-color: #7C665B
+  background-color: #7C665B;
   align: center;
   border: 3px solid #5E503C;
   box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.2);
