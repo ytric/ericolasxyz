@@ -697,14 +697,14 @@ a.back-to-top:hover, a.back-to-top:focus {
   }
   .slicknav_nav .active a {
     background: #E91E63;
-    color: #fff;
+    color: #669933;
   }
   .slicknav_nav a:hover,
   .slicknav_nav a:focus,
   .slicknav_nav .active {
     color: #669933;
     outline: none;
-    background: #f8f9fa;
+    background: #c99789;
   }
 }
 
