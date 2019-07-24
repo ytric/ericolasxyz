@@ -337,9 +337,10 @@ a.back-to-top:hover, a.back-to-top:focus {
 .counter-section {
   background: url(../img/background/bg-1.jpg);
   overflow: hidden;
-  position: fixed;
+  position: relative;
   background-repeat: no-repeat;
   background-size: auto;
+  background-position: fixed;
   background-top: 0; 
   background-left: 0; 
   /* Preserve aspet ratio */
