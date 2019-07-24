@@ -335,11 +335,11 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 .counter-section {
-  background: url(../img/background/bg-1.jpg);
+  background: url(../img/background/bg-1.jpg) no-repeat center center fixed;
   overflow: hidden;
   position: relative;
-  background-repeat: no-repeat;
-  background-size: auto;
+  background-size: cover;
+  height: 100%
 }
 
 .counter-section:before {
