@@ -5,14 +5,14 @@ html {
 
 body {
   background: #c5b8a8;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 400;
   font-family: "Source Sans Pro", sans-serif;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   -webkit-font-smoothing: subpixel-antialiased;
-  color: #666;
+  color: #1d1d2c;
   line-height: 25px;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
@@ -78,7 +78,7 @@ ul li, ol li {
   letter-spacing: 0.1rem;
 }
 
-.section-titile-bg {
+.section-title-bg {
   display: inline;
   font-size: 115px;
   font-weight: 700;
@@ -289,8 +289,8 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 #about .img-thumb img {
-  border: 8px solid #fff;
-  box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.2);
+  border: 8px solid #5E503C;
+  box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.2);
 }
 
 .profile-wrapper {
@@ -317,7 +317,7 @@ a.back-to-top:hover, a.back-to-top:focus {
   position: relative;
   width: 120px;
   display: inline-block;
-  margin-bottom: 5px;
+  margin-bottom: 4px;
 }
 
 .about-profile .pro-title:after {
@@ -907,11 +907,11 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 
 /* Services Item */
 .services {
-  background: #F0F0F0;
+  background: #A49892;
 }
 
 .services-item {
-  background: #fff;
+  background: #CBBEB7;
   border-radius: 4px;
   padding: 48px 20px;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
