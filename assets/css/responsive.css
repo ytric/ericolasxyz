@@ -20,7 +20,16 @@
   .services-item {
     margin-bottom: 20px;
   }
+  .hide-this{
+    visibility:hidden;
+    display:none;
+
 }
+
+}
+
+
+
 
 /* only small tablets */
 @media (min-width: 768px) and (max-width: 991px) {
@@ -37,6 +46,12 @@
   .counter-section .counter p {
     font-size: 14px;
   }
+  .hide-this{
+    visibility:hidden;
+    display:none;
+
+}
+
 }
 
 /* mobile or only mobile */
@@ -78,14 +93,11 @@
   .footer-right-area {
     margin-top: 20px;
   }
-}
-
-@media screen and (max-width:960px) {
-
-.hide-this{
-visibility:hidden;
-display:none;
+  .hide-this{
+    visibility:hidden;
+    display:none;
 
 }
 
 }
+
