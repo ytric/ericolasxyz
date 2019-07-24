@@ -480,7 +480,7 @@ a.back-to-top:hover, a.back-to-top:focus {
   animation-fill-mode: both;
   -webkit-animation-name: fadeInDown;
   animation-name: fadeInDown;
-  background: #fff !important;
+  background: #39311C !important;
 }
 
 .top-nav-collapse .navbar-brand {
