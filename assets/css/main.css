@@ -1132,3 +1132,10 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 #copyright p a:hover {
   color: #669933;
 }
+
+
+#name-on-menu{
+  font-color: #d6eebf;
+  font-size: 24px;
+  
+}
