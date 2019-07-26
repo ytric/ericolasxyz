@@ -1139,5 +1139,5 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   padding-left: 20px;
   color: #669933;
   text-align: center;
-  
+  img-width: 60%
 }
