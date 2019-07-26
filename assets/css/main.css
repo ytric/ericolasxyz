@@ -466,7 +466,6 @@ a.back-to-top:hover, a.back-to-top:focus {
 .navbar-brand {
   position: relative;
   padding: 0px;
-  height: 60px;
   vertial-align: middle;
 }
 
@@ -690,7 +689,6 @@ a.back-to-top:hover, a.back-to-top:focus {
   }
   .navbar-brand img {
     width: 75%;
-    height: 60px;
   }
   #mobile-menu {
     display: none;
