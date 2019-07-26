@@ -464,7 +464,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 .navbar-brand {
-  position: relative;
+  position: fixed;
   padding: 0px;
 }
 
