@@ -690,7 +690,7 @@ a.back-to-top:hover, a.back-to-top:focus {
   }
 .name-on-menu {
   padding-left: 10px;
-  color: #c1ffc1;
+  color: #e1e9b7;
   font-size: 16px;
 }
 
@@ -1145,6 +1145,6 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 
 .name-on-menu {
   padding-left: 30px;
-  color: #c1ffc1;
+  color: #e1e9b7;
   text-align: center;
 }
