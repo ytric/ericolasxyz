@@ -1135,7 +1135,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 }
 
 
-#name-on-menu {
+.name-on-menu {
   font-color: #fff;
   font-size: 24px;
   text-align: center;
