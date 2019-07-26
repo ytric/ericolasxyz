@@ -690,13 +690,13 @@ a.back-to-top:hover, a.back-to-top:focus {
   }
 .name-on-menu {
   padding-left: 10px;
-  color: #669933;
+  color: #c1ffc1;
   font-size: 16px;
 }
 
   .navbar-brand img {
-    width: 20%;
-    height: 20%;
+    width: 28%;
+    height: 28%;
   }
   #mobile-menu {
     display: none;
@@ -1145,6 +1145,6 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 
 .name-on-menu {
   padding-left: 30px;
-  color: #669933;
+  color: #c1ffc1;
   text-align: center;
 }
