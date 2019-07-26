@@ -466,6 +466,8 @@ a.back-to-top:hover, a.back-to-top:focus {
 .navbar-brand {
   position: relative;
   padding: 0px;
+  height: 60px;
+  vertial-align: middle;
 }
 
 .top-nav-collapse {
@@ -489,7 +491,6 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 .top-nav-collapse .navbar-brand img {
   width: 65%;
-  height: 10%
 }
 
 .top-nav-collapse .navbar-nav .nav-link {
