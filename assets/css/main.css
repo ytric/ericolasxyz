@@ -688,9 +688,15 @@ a.back-to-top:hover, a.back-to-top:focus {
     padding: 0px 15px;
     top: 0;
   }
+.name-on-menu {
+  padding-left: 10px;
+  color: #669933;
+  font-size: 16px;
+}
+
   .navbar-brand img {
-    width: 30%;
-    height: 30%;
+    width: 20%;
+    height: 20%;
   }
   #mobile-menu {
     display: none;
