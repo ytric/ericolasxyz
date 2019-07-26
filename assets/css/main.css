@@ -489,7 +489,8 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 .top-nav-collapse .navbar-brand img {
-  width: 60%;
+  width: 30%;
+  height: 30%
 }
 
 .top-nav-collapse .navbar-nav .nav-link {
