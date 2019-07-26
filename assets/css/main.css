@@ -1136,6 +1136,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 
 
 .name-on-menu {
+  padding-left: 20px;
   color: #669933;
   text-align: center;
   
